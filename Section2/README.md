@@ -33,3 +33,27 @@
 *PEP 8*
 
 *4 spacs never tab*
+
+
+**Code structure**
+/folder_level_structure
+    /modules
+        run.py (starts the app)
+        function.py
+    /processing
+    /packages
+        /utils
+        __init__.py
+
+
+
+**PEP8**
+*https://peps.python.org/pep-0008/*
+
+*use 4 space, never tab*
+*meaningful name of your function, classes*
+
+**Zen**
+*import this*
+
+*make your code as simple as possible*
